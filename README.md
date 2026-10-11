@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="2048" height="768" alt="DC PROCODE_ Código e ideas futuristas" src="https://github.com/user-attachments/assets/7c1b236f-ba63-42a0-b2ab-ea02f5eb87ef" />
+  <img src="./assets/banner.png" alt="DC PROCODE — código e ideas futuristas" width="100%" />
 
 
   # Deimer Caro
@@ -92,6 +92,21 @@ Me interesan los retos técnicos que se reflejan en el producto final: ejecutar 
 - Ampliar JavaQuest con Java avanzado, SQL, Spring Boot y un proyecto completo de frontend + API.
 - Publicar el despliegue de producción de Cine Animations.
 - Fortalecer la documentación, verificación automática y evidencia de despliegue de mis proyectos públicos.
+
+---
+
+## GitHub activity · Actividad en GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEIMER-PY&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9&icon_color=EAB308" alt="GitHub statistics for Deimer Caro" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIMER-PY&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages in Deimer Caro's public repositories" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEIMER-PY/DEIMER-PY/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEIMER-PY/DEIMER-PY/output/github-snake.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/DEIMER-PY/DEIMER-PY/output/github-snake.svg" width="100%" />
+</picture>
 
 ---
 
