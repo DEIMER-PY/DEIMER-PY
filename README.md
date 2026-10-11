@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./assets/deimer-banner.png" alt="Abstract full-stack and AI engineering landscape" width="100%" />
+  <img width="2048" height="768" alt="DC PROCODE_ Código e ideas futuristas" src="https://github.com/user-attachments/assets/7c1b236f-ba63-42a0-b2ab-ea02f5eb87ef" />
+
 
   # Deimer Caro
 
