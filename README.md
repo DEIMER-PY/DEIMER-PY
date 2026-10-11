@@ -12,6 +12,8 @@
   [LinkedIn](https://www.linkedin.com/in/deimer-caro-87141b403/) · [Email](mailto:programador8903@gmail.com)
 
   [English](#english) · [Español](#español)
+
+  <img src="./assets/engineering-flow.svg" alt="Engineering flow: Frontend, APIs, Data, AI/RAG and Delivery" width="100%" />
 </div>
 ---
 
